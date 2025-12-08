@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/c00LpXer/leetcode_js/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/c00LpXer/leetcode_js/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/C00LPIXER/leetcode/tree/master/0070-climbing-stairs) |
+| [0171-excel-sheet-column-number](https://github.com/C00LPIXER/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/c00LpXer/leetcode_js/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/c00LpXer/leetcode_js/tree/master/0231-power-of-two) |
 | [0504-base-7](https://github.com/c00LpXer/leetcode_js/tree/master/0504-base-7) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/c00LpXer/leetcode_js/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/c00LpXer/leetcode_js/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/c00LpXer/leetcode_js/tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/C00LPIXER/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/c00LpXer/leetcode_js/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/c00LpXer/leetcode_js/tree/master/0344-reverse-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/c00LpXer/leetcode_js/tree/master/0434-number-of-segments-in-a-string) |
